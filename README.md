@@ -24,6 +24,7 @@ Pensando nisto e na >> <i>fonética da língua norueguesa</i> << a melhor opçã
 |  Ê |   Ø |
 
 
+![Animação](https://user-images.githubusercontent.com/72607039/142781771-6da096e0-38a5-4ca6-9b8e-387cff027a36.gif)
 
 
 Built by Binary Leo 👋🏻 &nbsp;[Find me on linkedin!](https://www.linkedin.com/in/leonardo-moura-92b513209/)
